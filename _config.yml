@@ -1,10 +1,10 @@
 title: LoveXY
-#description: .
+description: "大音希声 大象无形"
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 
-highlighter: rouge
+highlighter: rouge    
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
